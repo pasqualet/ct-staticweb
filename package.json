@@ -1,0 +1,11 @@
+{
+    "name": "ct-staticweb",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@cloudtoolkit/aws": "^0.5.2",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

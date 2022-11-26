@@ -1,0 +1,3 @@
+name: ct-staticweb
+description: StaticWeb component from Cloud Toolkit
+runtime: nodejs
